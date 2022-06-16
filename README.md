@@ -7,7 +7,7 @@ Es habitual usar los dataset de Kaggle para hacer pruebas. Como estos archivos s
 
 $~$
 
-Para evitar esto, podemos descargar al directorio de trabajo los dataset de Kaggle. 
+Para evitar esto, podemos descargar los dataset de Kaggle en el directorio de trabajo. 
 
 $~$
 
