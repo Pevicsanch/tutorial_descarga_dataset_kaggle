@@ -1,4 +1,4 @@
-# Como descargar los Datasets de kaggle en Google colab o en desde jupyter notebooks: 
+# Como descargar los Datasets de kaggle en Google colab o desde jupyter notebooks: 
 
 ______
 $~$
